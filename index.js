@@ -4,8 +4,7 @@ function happyHolidays(string) {
 
 function happyHolidaysTo(name) {
 return ('Happy holidays, ${name}!')
-
-console.log happyHolidaysTo(you) 
+happyHolidaysTo(you) 
 }
 
 
